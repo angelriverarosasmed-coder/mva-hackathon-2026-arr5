@@ -1,0 +1,1 @@
+# Python 3.9+; no third-party packages required for locus extraction.

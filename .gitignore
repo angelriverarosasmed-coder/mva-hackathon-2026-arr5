@@ -1,0 +1,8 @@
+results/
+*.vcf
+*.vcf.gz
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq*

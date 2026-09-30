@@ -1,0 +1,7 @@
+Screen rank,Candidate,Arm,Mechanism,Priority score,Screen verdict,Interpretation
+1.0,Fingolimod (FTY720),A-REBALANCE,SET/PP2A modulation; S1P modulator,18.7,ADVANCE,"Best current approved-drug bridge to PP2A, but must prove kinetochore PP2A-B56 engagement and actual segregation rescue."
+2.0,Sodium phenylbutyrate (4-PBA),B-BUFFER / STABILIZE,Chemical chaperone; HDAC effects,18.3,ADVANCE,Direct human trisomy fibroblast evidence: reduced protein aggregates; particularly compelling if N1002K shows instability/misfolding.
+3.0,Arimoclomol,B-BUFFER / STABILIZE,Heat-shock response co-inducer / HSF1-HSP biology,14.5,ADVANCE,FDA-approved for NPC; HSP/proteostasis mechanism intersects aneuploid proteotoxic stress. No direct BUB1B-MVA rescue yet.
+5.0,Elamipretide,B-BUFFER,Mitochondrial cardiolipin binder,13.0,ADVANCE,New FDA-approved mitochondrial drug; interesting only if MVA cells show mitochondrial dysfunction matching aneuploid stress.
+6.0,Dimethyl fumarate,B-BUFFER / PRESERVE,MMF; Nrf2/electrophilic stress response,12.5,ADVANCE,Same active-metabolite family; parent-drug effects not assumed equivalent.
+7.0,Diroximel fumarate,B-BUFFER / PRESERVE,MMF; Nrf2-linked stress response,12.5,ADVANCE,Phenotype-gated redox/ISR candidate; genomic-safety gate mandatory.

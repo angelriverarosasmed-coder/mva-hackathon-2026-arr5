@@ -1,0 +1,62 @@
+Candidate,Approval fit,Mechanism,Arm,Direct BUBR1,Kinetochore/PP2A,Aneuploidy/CIN,Human evidence,Mechanistic fit,Measurability,Genomic/false-rescue risk,Interpretation,Priority score,Screen verdict,Rankable,Screen rank
+Fingolimod (FTY720),2,SET/PP2A modulation; S1P modulator,A-REBALANCE,1,3,1,3,3,3,2,"Best current approved-drug bridge to PP2A, but must prove kinetochore PP2A-B56 engagement and actual segregation rescue.",18.7,ADVANCE,True,1.0
+Sodium phenylbutyrate (4-PBA),2,Chemical chaperone; HDAC effects,B-BUFFER / STABILIZE,1,0,3,3,3,3,1,Direct human trisomy fibroblast evidence: reduced protein aggregates; particularly compelling if N1002K shows instability/misfolding.,18.3,ADVANCE,True,2.0
+Arimoclomol,2,Heat-shock response co-inducer / HSF1-HSP biology,B-BUFFER / STABILIZE,0,0,2,3,3,3,1,FDA-approved for NPC; HSP/proteostasis mechanism intersects aneuploid proteotoxic stress. No direct BUB1B-MVA rescue yet.,14.5,ADVANCE,True,3.0
+NMN,0,NAD+ precursor,STABILIZE benchmark,3,0,2,2,1,3,1,Strong BubR1 abundance biology; not clean approved-drug Track 2 lead.,13.5,ADVANCE-CONDITIONAL,True,4.0
+Elamipretide,2,Mitochondrial cardiolipin binder,B-BUFFER,0,0,2,3,2,3,1,New FDA-approved mitochondrial drug; interesting only if MVA cells show mitochondrial dysfunction matching aneuploid stress.,13.0,ADVANCE,True,5.0
+Dimethyl fumarate,2,MMF; Nrf2/electrophilic stress response,B-BUFFER / PRESERVE,0,0,2,3,3,3,2,Same active-metabolite family; parent-drug effects not assumed equivalent.,12.5,ADVANCE,True,6.0
+Diroximel fumarate,2,MMF; Nrf2-linked stress response,B-BUFFER / PRESERVE,0,0,2,3,3,3,2,Phenotype-gated redox/ISR candidate; genomic-safety gate mandatory.,12.5,ADVANCE,True,7.0
+Aurora B inhibitor class,0,Aurora B inhibition,A mechanistic control,0,3,3,3,1,3,3,Strong pathway-positive control; antimitotic liabilities preclude lead status.,12.3,MECHANISTIC CONTROL,True,8.0
+N-acetylcysteine,2,Glutathione precursor / redox,B-BUFFER / PRESERVE,0,0,1,3,2,3,1,Conditional on demonstrable redox phenotype; generic ROS lowering is not rescue.,11.2,ADVANCE-CONDITIONAL,True,9.0
+Rapamycin-class autophagy induction,2,mTORC1/autophagy,B-BUFFER,1,0,1,3,2,3,2,Potential proteostasis benefit must be separated from cytostasis.,11.2,ADVANCE-CONDITIONAL,True,10.0
+Sirolimus,2,mTORC1 inhibition,B-BUFFER,1,0,1,3,2,3,2,BubR1-related models support mTOR relevance; cytostasis can mimic rescue.,11.2,ADVANCE-CONDITIONAL,True,11.0
+Edaravone,2,Free-radical scavenger,B-BUFFER / PRESERVE,0,0,1,3,2,2,1,Approved redox comparator if oxidative injury is demonstrated.,10.4,ADVANCE-CONDITIONAL,True,12.0
+Barasertib,0,Aurora B inhibitor,A mechanistic control,0,3,3,2,0,3,3,"Research/oncology control, not repurposing lead.",9.8,MECHANISTIC CONTROL,True,13.0
+Geranylgeranylacetone (teprenone),1,Heat-shock protein induction,B-BUFFER / STABILIZE,0,0,2,2,2,2,1,Approved in Japan/China; HSP-inducing concept intersects aneuploid proteotoxic stress and deserves comparator status.,9.7,ADVANCE-CONDITIONAL,True,14.0
+Everolimus,2,mTORC1 inhibition,B-BUFFER,0,0,1,3,2,3,2,Approved class comparator to sirolimus.,9.2,ADVANCE-CONDITIONAL,True,15.0
+Metformin,2,AMPK/metabolic; indirect mTOR effects,B-BUFFER,0,0,1,3,1,2,1,Only if patient cells show a matching metabolic phenotype.,8.9,ADVANCE-CONDITIONAL,True,16.0
+Ursodiol,2,Bile acid; mitochondrial/ER stress indirect,B-BUFFER,0,0,1,3,1,2,1,Mechanistically distant unless a specific stress phenotype emerges.,8.9,ADVANCE-CONDITIONAL,True,17.0
+TUDCA,1,Chemical chaperone / ER stress,B-BUFFER,0,0,1,2,2,2,1,Conditional chemical-chaperone comparator; regulatory status varies by jurisdiction.,7.9,HOLD / PHENOTYPE-GATED,True,18.0
+Zafirlukast,2,CysLT1 antagonist; reported KEAP1-NRF2 PPI inhibition,B-BUFFER / PRESERVE,0,0,1,2,2,2,2,Unexpected screen hit: FDA-approved and experimentally reported to activate Nrf2 via KEAP1-NRF2 disruption; no MVA evidence.,7.4,HOLD / PHENOTYPE-GATED,True,19.0
+Atorvastatin,2,HMGCR inhibition,B exploratory,0,0,0,3,1,2,1,Mevalonate/proteostasis effects too indirect without phenotype.,7.1,HOLD / PHENOTYPE-GATED,True,20.0
+Pravastatin,2,HMGCR inhibition,B exploratory,0,0,0,3,1,2,1,Class comparator; low priority.,7.1,HOLD / PHENOTYPE-GATED,True,21.0
+Pioglitazone,2,PPAR-gamma agonist / mitochondrial-metabolic effects,B-BUFFER,0,0,1,3,1,2,2,Exploratory metabolic comparator; no direct MVA rescue.,6.9,HOLD / PHENOTYPE-GATED,True,22.0
+Nicotinamide riboside,1,NAD+ precursor,STABILIZE benchmark,1,0,0,2,1,2,1,Useful mechanistic benchmark; regulatory/repurposing fit weaker.,6.6,HOLD / PHENOTYPE-GATED,True,23.0
+Idebenone,1,Mitochondrial redox,B exploratory,0,0,1,2,1,2,1,Jurisdiction-dependent approval; phenotype-gated mitochondrial comparator.,6.4,HOLD / PHENOTYPE-GATED,True,24.0
+Niacin,2,NAD precursor / GPR109A,STABILIZE exploratory,0,0,0,3,1,1,1,Weak direct link to BUBR1 stability.,6.3,HOLD / PHENOTYPE-GATED,True,25.0
+Riluzole,2,Glutamate/stress pleiotropy,B exploratory,0,0,0,3,1,1,1,Low mechanistic proximity.,6.3,HOLD / PHENOTYPE-GATED,True,26.0
+Dutasteride,2,5-alpha reductase inhibitor; reported KEAP1-NRF2 PPI inhibition,B-BUFFER / PRESERVE,0,0,1,2,1,2,2,Unexpected Nrf2 repurposing hit; mechanistic distance and endocrine liabilities demote it.,5.9,HOLD / PHENOTYPE-GATED,True,27.0
+Coenzyme Q10,1,Mitochondrial/redox,B exploratory,0,0,1,2,1,1,1,Low specificity; benchmark only.,5.6,HOLD / PHENOTYPE-GATED,True,28.0
+Nicotinamide,2,NAD metabolism; can inhibit sirtuins contextually,STABILIZE,1,0,0,3,0,2,2,Do not substitute for NMN; direction on SIRT2 may be counterproductive.,5.6,HOLD / PHENOTYPE-GATED,True,29.0
+Dantrolene,2,Ryanodine receptor / calcium,B exploratory,0,0,0,3,1,2,2,"Could interrogate calcium/ER stress if abnormal, but no direct MVA bridge.",5.1,HOLD / PHENOTYPE-GATED,True,30.0
+Etrasimod,2,S1P1/4/5 modulator,A comparator,0,0,0,3,1,2,2,Same role as class comparator.,5.1,HOLD / PHENOTYPE-GATED,True,31.0
+Lithium,2,GSK3/inositol; autophagy-related,B exploratory,0,0,0,3,1,2,2,Only phenotype-gated; broad pleiotropy.,5.1,HOLD / PHENOTYPE-GATED,True,32.0
+Miglustat,2,Glucosylceramide synthase inhibitor,B-BUFFER,0,0,0,3,1,2,2,"Included because of proteostasis/lysosomal disease context, but no direct aneuploidy bridge.",5.1,HOLD / PHENOTYPE-GATED,True,33.0
+Ozanimod,2,S1P1/5 modulator,A comparator,0,0,0,3,1,2,2,Same role as class comparator.,5.1,HOLD / PHENOTYPE-GATED,True,34.0
+Ponesimod,2,S1P1 modulator,A comparator,0,0,0,3,1,2,2,Same role as class comparator.,5.1,HOLD / PHENOTYPE-GATED,True,35.0
+Siponimod,2,S1P1/5 modulator,A comparator,0,0,0,3,1,2,2,Tests whether fingolimod effect is S1P-class related; no established SET/PP2A bridge.,5.1,HOLD / PHENOTYPE-GATED,True,36.0
+Valproate,2,HDAC/GABA pleiotropy,B exploratory,0,0,0,3,1,2,2,No direct BUB1B-MVA rescue bridge.,5.1,HOLD / PHENOTYPE-GATED,True,37.0
+Vorinostat,2,HDAC inhibition,STABILIZE/B exploratory,0,0,0,3,1,2,2,Broad acetylation effects do not cleanly reproduce SIRT2-mediated BUBR1 deacetylation.,5.1,HOLD / PHENOTYPE-GATED,True,38.0
+Sulforaphane,0,Nrf2 activation,B benchmark,0,0,1,2,1,2,1,"Useful Nrf2 positive control, not clean approved prescription lead.",4.9,HOLD / PHENOTYPE-GATED,True,39.0
+Ketotifen,2,H1 antagonist/mast-cell stabilizer,B exploratory,0,0,0,3,0,1,1,No meaningful BUB1B-MVA bridge despite broad target annotations.,4.8,HOLD / PHENOTYPE-GATED,True,40.0
+N-acetyl-DL-leucine,2,Neurometabolic mechanism incompletely defined,B exploratory,0,0,0,3,0,1,1,Approved for NPC in 2024 but no clear MVA mechanistic bridge.,4.8,HOLD / PHENOTYPE-GATED,True,41.0
+Propranolol,2,Beta blocker,B exploratory,0,0,0,3,0,1,1,No mechanistic bridge; retained to illustrate filtering of broad approved-drug space.,4.8,HOLD / PHENOTYPE-GATED,True,42.0
+Carbamazepine,2,Autophagy-related pleiotropy,B exploratory,0,0,0,3,1,1,2,Low mechanistic proximity.,4.3,HOLD / PHENOTYPE-GATED,True,43.0
+Ketoconazole,2,Antifungal/CYP inhibitor; reported KEAP1-NRF2 PPI inhibition,B-BUFFER / PRESERVE,0,0,1,2,1,2,3,Nrf2 hit but major pleiotropy/drug-interaction liabilities; poor lead.,3.9,DEPRIORITIZE,True,44.0
+Hydroxychloroquine,2,Lysosome/autophagy inhibition,B-BUFFER,0,0,-1,3,0,2,2,Directionally concerning because aneuploid cells depend on degradation/proteostasis.,1.8,DEPRIORITIZE,True,45.0
+Romidepsin,2,HDAC inhibition,STABILIZE/B exploratory,0,0,0,3,0,2,3,Pleiotropic/cytotoxic; poor chronic rescue candidate.,1.6,DEPRIORITIZE,True,46.0
+Bardoxolone methyl,0,Nrf2-related,B benchmark,0,0,1,2,0,2,2,Not approved; mechanism benchmark only.,1.4,DEPRIORITIZE,True,47.0
+Taurursodiol/phenylbutyrate fixed combo,0,ER/proteostasis,B-BUFFER,0,0,1,2,0,2,2,Regulatory history/withdrawal makes it unsuitable as current lead.,1.4,DEPRIORITIZE,True,48.0
+Resveratrol,0,Pleiotropic/SIRT-related,STABILIZE benchmark,0,0,0,2,0,1,1,Not an approved-drug lead and not a selective SIRT2 activator.,0.8,DEPRIORITIZE,True,49.0
+Albendazole,2,Tubulin interaction,ATTACHMENT negative,0,0,-2,3,0,2,2,Same conceptual issue.,0.0,DEPRIORITIZE,True,50.0
+Mebendazole,2,Tubulin interaction,ATTACHMENT negative,0,0,-2,3,0,2,2,"Repurposing literature exists in oncology, but mitotic mechanism conflicts with rescue goal.",0.0,DEPRIORITIZE,True,51.0
+Bortezomib,2,Proteasome inhibition,B negative control,1,0,-3,3,0,3,3,"Human aneuploid cells are hypersensitive to proteasome inhibition; useful negative/control, not buffering therapy.",-1.0,REJECT / CONTROL,True,52.0
+Alisertib,0,Aurora A inhibitor,A control,0,1,-1,2,0,3,3,Mitotic kinase inhibition is likely confounded/cytotoxic.,-1.4,DEPRIORITIZE,True,53.0
+Carfilzomib,2,Proteasome inhibition,B negative control,0,0,-3,3,0,3,3,Same conceptual rejection as bortezomib.,-3.0,REJECT / CONTROL,True,54.0
+Colchicine,2,Microtubule inhibition,ATTACHMENT negative,0,0,-3,3,0,3,3,Wrong direction for chromosome fidelity.,-3.0,REJECT / CONTROL,True,55.0
+Docetaxel,2,Microtubule stabilization,ATTACHMENT negative,0,0,-3,3,0,3,3,Mitotic poison; reject.,-3.0,REJECT / CONTROL,True,56.0
+Ixazomib,2,Proteasome inhibition,B negative control,0,0,-3,3,0,3,3,Same conceptual rejection as bortezomib.,-3.0,REJECT / CONTROL,True,57.0
+Paclitaxel,2,Microtubule stabilization,ATTACHMENT negative,0,0,-3,3,0,3,3,Mitotic poison; reject.,-3.0,REJECT / CONTROL,True,58.0
+Vinblastine,2,Microtubule destabilization,ATTACHMENT negative,0,0,-3,3,0,3,3,Mitotic poison; reject.,-3.0,REJECT / CONTROL,True,59.0
+Vincristine,2,Microtubule destabilization,ATTACHMENT negative,0,0,-3,3,0,3,3,Mitotic poison; reject.,-3.0,REJECT / CONTROL,True,60.0
+Volasertib,0,PLK1 inhibitor,A negative control,0,-1,-1,2,0,3,3,PLK1 inhibition did not reproduce Aurora B rescue in key B56 work.,-5.4,DEPRIORITIZE,True,61.0

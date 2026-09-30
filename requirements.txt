@@ -1,1 +1,2 @@
-# Python 3.9+; no third-party packages required for locus extraction.
+# Track 2 reconstruction uses only the Python standard library (Python >=3.10).
+# Retain any Track 1 dependencies already present in the existing repository.

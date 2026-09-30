@@ -1,0 +1,5 @@
+observed_patient_cell_state,path,advance_requirement
+BUB1B-rescuable PP2A/CIN phenotype,WT-BUB1B benchmark -> Arm A fingolimod,Target engagement plus reduced missegregation within Rescue Window
+Proteostasis phenotype,Arm B 4-PBA + arimoclomol mini-screen,Correction of measured homeostatic defect with preserved genomic stability
+Both phenotypes,Validate A and B independently; combine only after single-agent rescue,Each arm passes its own functional and safety gates
+Neither phenotype,Remap mechanism and drug landscape,No forced nomination
